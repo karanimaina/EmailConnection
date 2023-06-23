@@ -1,3 +1,5 @@
+package com.example.springemailclient.repository;
+
 import com.example.springemailclient.EmailSend;
 import org.springframework.data.jpa.repository.JpaRepository;
 
